@@ -10,104 +10,28 @@ output:
 ---
 layout:true 
 
-background-image: url(https://i.ibb.co/VC8kPYQ/fondo.png)
+background-image: url(https://i.ibb.co/3Wx5t37/Fondo-tesis.png)
 background-size: 1217px
 background-position: 100% 100%
 
 ---
-class: middle, center, inverse
-background-image: url(https://i.postimg.cc/Qx1XmyHc/logos-unidos.png)
-background-size: 1000px
-background-size: 100% 100%
-
-
-**Universidad Nacional de Trujillo**
-
-**Facultad de Derecho y Ciencia Política**
-
-**E.A.P. Ciencia Política y Gobernabilidad**
-
-<br>
-<br>
-
-# "Las Reglas Fiscales y sus Efectos en la Gestión Pública de las Municipalidades Provinciales en el Perú en el 2017-2019"
-##### Tesis para optar el título profesional en Ciencia Política y Gobernabilidad
-
-<br>
-
-Tesista: Bach. Lino Eduardo Cruz Díaz
-
-Asesora: Dra. Lily de la Concepción Bautista Zúñiga
+background-image: url(https://i.ibb.co/ysJJ0hX/caratula.png)
 
 ---
-# Estructura de la Presentación
-
-**1. Introducción**
-
-  + **1.1. Realidad Problemática**
-  
-  + **1.2. Justificación y Relevancia**
-    
-  + **1.3. Marco Teórico Conceptual**
-    
-  + **1.4. Marco Empírico**
-
-
-**2. Procedimiento Metodológico**
-
-**3. Resultados y Análisis**
-
-**4. Conclusiones**
-
-**5. Recomendaciones**
-
-**6. Bibliografía Destacada**
+background-image: url(https://i.ibb.co/dLYYSQ2/Estructura.png)
 
 ---
-background-image: url(https://i.ibb.co/Z21ST39/Intro.png)
+background-image: url(https://i.ibb.co/mCh5G2L/Intro.png)
 
+---
+background-image: url(https://i.ibb.co/gw6bgxC/Realidad.png)
+
+---
+background-image: url(https://i.ibb.co/NZxTYHr/marco1.png)
 
 ---
 
-## **1.1. Realidad Problemática**
-- Posibilidad de una recesión económica.
-
-- Estabilidad macroeconómica nacional y subnanacional.
-
-- Marco de la Responsabilidad y Transparencia Fiscal en los Gobiernos Regionales y Locales (DL. N° 1275/2016)
-
-- Gestión Pública.
-
---
-
-## **1.2. Justificación y Relevancia**
-- Proponer un nuevo marco de análisis con elementos de la ciencia política. 
-
-- Conocimientos para mejorar la gestión pública en su componente económico.
-
----
-
-# Marco Teórico Conceptual 1/2
-
---
-#### 1. Teoría Institucional
-Las instituciones son el conjunto de reglas formales e informales. (North, 1990)
-
---
-#### 2. Municipalidad
-Entidad de gobierno de nivel local o subnacional.
-
---
-#### 3. Políticas Económicas
-Medidas de carácter económico en busca del equilibrio entre los agentes económicos de un país o región. 
-
---
-#### 4. Reglas Fiscales
-Instrumentos fiscales de carácter instrumental que establecen límites para lograr la estabilidad macroeconómica. 
-
----
-
-# Marco Teórico Conceptual 2/2
+# **1.4. Marco Teórico Conceptual 2/2**
 
 **5. Reglas Fiscales para gobiernos subnacionales**
 
@@ -125,11 +49,11 @@ Capacidad institucional que tienen las municipalidades de ejecutar sus actividad
 
 ---
 
-# Marco Empírico 1/2
+# **1.5. Marco Empírico 1/2**
 
 **1. Uso de las Reglas Fiscales en el Perú**
 - ***Aplicación de Reglas Fiscales en GR y GL, 2017-2019***
-```{r echo=FALSE, out.width = "800px", out.height="250px",fig.align='center'}
+```{r echo=FALSE, out.width = "780px", out.height="250px",fig.align='center'}
 
 knitr::include_graphics("RF General.png")
 ```
@@ -141,89 +65,26 @@ knitr::include_graphics("RF General.png")
 - Marco de Modernización del Estado. 
 
 ---
-
-# Marco Empírico 2/2
-<br>
-
-### 3. Efectos de las Reglas Fiscales en diversas áreas de la administración pública
-
-- Fuerte relación entre el diseño de las RF y mejores resultados presupuestales. (Tapp, 2013; Jiménez y Ter-Minassian, 2016; Wang, 2016)
-
-- Su cumplimiento depende de las sanciones al incumplimiento.(Smith, 2016)
-
-- Las RF subnacionales favorecen la estabilidad macroeconómica nacional.(Consejo Fiscal,s.f.; Chamorro Narváez y Urrea Bermúdez, 2016)
-
-- Las RF tienen un aporte positivo al manejo fiscal discrecional; pero, también pueden tener costos sociales. (Gehrke, 2014)
+background-image: url(https://i.ibb.co/dG8d5Mf/marco6.png)
 
 ---
-class: center, middle, my-one-page-font
-
-# Problema de Investigación
-
-## ¿Cuáles son los efectos de las reglas fiscales en la gestión pública de las municipalidades provinciales del Perú durante el periodo 2017-2019?
+background-image: url(https://i.ibb.co/j6y0P6R/Pregunta.png)
 
 ---
-class: my-one-page-font
-# Objetivo General
-
-Determinar  los  efectos  de las reglas  fiscales  en  la gestión pública  local  de  las municipalidades provinciales del Perú durante el periodo 2017 - 2019. 
-
---
-
-## Objetivos Específicos
-
-- Identificar el efecto que tienen las reglas fiscales sobre la ejecución presupuestal  de las municipales provinciales del Perú durante el periodo 2017 - 2019. 
-
-- Conocer el efecto que tienen las reglas fiscales sobre la capacidad de endeudamiento de las municipales provinciales del Perú durante el periodo 2017 - 2019.
-
-- Determinar los efectos de las reglas fiscales  en los ingresos corrientes totales de las municipalidades provinciales del Perú en el periodo 2017 - 2019.
+background-image: url(https://i.ibb.co/gWx9PbN/objetivos.png)
 
 ---
-class: my-one-page-font
-#Hipótesis
-
---
-### General
-- H0: Las reglas fiscales tienen efectos significativos en la gestión pública de las municipalidades provinciales del Perú durante el periodo 2017-2019.
-
---
-### Específicas
-- H1: Las reglas fiscales tienen una relación signifcativa con la ejecución presupuestal de las municipalidades provinciales del Perú durante el periodo 2017-2019.
-
-- H2: Las reglas fiscales tienen una relación significativa con la capacidad de endeudamiento de las municipalidades provinciales del Perú durante el periodo 2017-2019. 
-
-- H3: Las reglas fiscales tienen una relación significativa con los ingresos corrientes totales de las municipalidades provinciales del Perú durante el periodo 2017-2019.
----
-background-image: url(https://i.ibb.co/dbXFrtM/method.png)
+background-image: url(https://i.ibb.co/QPNVqL0/Hipo.png)
 
 ---
+background-image: url(https://i.ibb.co/fXKhJ93/methods.png)
 
-# Tipo de Investigación 
-
-- Enfoque Cuantitativo
-
-- No experimental
-
-- Longitudinal
-
-- Análisis de nivel Descriptivo-correlacional
-
---
-
-# Procedimiento metodológico
-
-
-1. Descripción de las variables de estudio.
-
-1. Preparación de los datos y elección de los modelos estadísticos a aplicar. 
-
-1. Aplicación y procesamiento de los datos. 
-
-1. Análisis de los resultados. 
+---
+background-image: url(https://i.ibb.co/5cmkh3L/tipo.png)
 
 ---
 class: middle
-# Operacionalización de las Variables
+# **2.3 Operacionalización de las Variables**
 
 ```{r, echo=FALSE, message=FALSE}
 library(dplyr)
@@ -240,11 +101,11 @@ collapse_rows_dt <- data.frame(Variable = c(rep("Reglas Fiscales Subnacionales",
    kable_styling(full_width = F, font_size = 19)
 ```
 ---
-background-image: url(https://i.ibb.co/dJG4KX5/results.png)
+background-image: url(https://i.ibb.co/ZBZ6tKT/results.png)
 
 ---
 
-# Gobiernos Locales en el Perú
+# **3.1 Gobiernos Locales en el Perú**
 
 <br>
 
@@ -260,7 +121,7 @@ knitr::include_graphics("Municipalidades.png")
 
 ---
 
-# Reglas Fiscales y Ejecución Presupuestal
+# **3.2 Reglas Fiscales y Ejecución Presupuestal**
 
 - ***Valores de regresión entre Reglas Fiscales y Ejecución Presupuestal***
 <br>
@@ -275,7 +136,7 @@ knitr::include_graphics("RF_EJE.png")
 
 ---
 
-# Reglas Fiscales y Capacidad de Endeudamiento
+# **3.3 Reglas Fiscales y Capacidad de Endeudamiento**
 
 - ***Valores de regresión entre Reglas Fiscales y Capacidad de Endeudamiento***
 <br>
@@ -291,7 +152,7 @@ knitr::include_graphics("RF_END.png")
 ---
 
 
-# Reglas Fiscales y los Ingresos Corrientes Totales
+# **3.4 Reglas Fiscales y los Ingresos Corrientes Totales**
 
 - ***Valores de regresión entre Reglas Fiscales e Ingresos Corrientes Totales***
 <br>
@@ -305,12 +166,12 @@ knitr::include_graphics("RF_ING.png")
 ***Análisis:*** Fuerte correlación explicada por el ámbito especializado de su aplicación. Las áreas que revisan los informes sobre RF, pueden advertir un mal desempeño de estas y corregir oportunamente. Son, además, áreas claves de las municipalidades.
 
 ---
-background-image: url(https://i.ibb.co/2nhqV1S/conclusion.png)
+background-image: url(https://i.ibb.co/nLQjh34/conclusions.png)
 
 ---
-class: middle, my-one-page-font
+class: my-one-page-font
 
-# Conclusiones
+# **4.1 Conclusiones**
 
 1. El efecto de las reglas fiscales sobre la ejecución presupuestal, no es significativo. 
 
@@ -323,29 +184,14 @@ class: middle, my-one-page-font
 1. Los efectos sobre atributos económicos especializados evidencia la postura teórica de que las reglas fiscales, incluso de nivel subnacional, fortalece la estabilidad macroeconómica nacional. 
 
 ---
-class: middle, my-one-page-font
+background-image: url(https://i.ibb.co/yf1CDRG/reco.png)
 
-# Recomendaciones
-
-
---
-
-- Estudiar un periodo más largo de tiempo de aplicación de las mismas reglas fiscales en enfoque de series temporales. 
-
-
---
-
-- Considerar un número mayor de atributos de la variable gestión pública, en especial para la dimensión de planificación. Si es de enfoque mixto, los atributos pueden ser cualitativos y cuantitativos.  
-
-
---
-
-- Abarcar, en estudios de tipo de analítica de datos, datos sobre las municipalidades de nivel distrital. 
-
+---
+background-image: url(https://i.ibb.co/M1CkDyt/biblio.png)
 
 
 ---
-# Bibliografía Destacada
+# **5.1 Bibliografía Destacada**
 
 + Altunbas,  Y.,  y  Thornton,  J. (2015) Why  do  countries  adopt  Fiscal Rules?
 
@@ -364,27 +210,4 @@ class: middle, my-one-page-font
 + Wyplosz, C. (2011) Fiscal Discipline: Rules Rather than Institutions. 
 
 ---
-class: center, inverse
-background-image: url(https://i.ibb.co/sPs98gh/logos-final.png)
-background-position: 50% 10% 
-background-size: 300px
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-## "Nada en la ciencia tiene valor para la sociedad si no se comunica." 
-### - Anne Rose (1952)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-##### Tesis dedicada a mi abuelita, mi familia, la universidad y a mi asesora, la Dra.Bautista Zúñiga.
+background-image: url(https://i.ibb.co/S6RjWsG/Fin-Pres.png)
